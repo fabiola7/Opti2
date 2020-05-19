@@ -1,2 +1,3 @@
 # Opti2
 Desarrollo de los métodos: Ramificación y Acotamiento y enumeración Implícita. 
+https://camo.githubusercontent.com/2980af9f4df6d972e5ab71cdb61388036b2cb0ef/687474703a2f2f69302e6b796d2d63646e2e636f6d2f70686f746f732f696d616765732f6f726967696e616c2f3030312f3232312f3733322f3930322e6a7067
